@@ -60,7 +60,7 @@
     "babel-plugin-transform-minify-booleans": "6.8.3",
     "babel-plugin-transform-remove-console": "6.8.5",
     "babel-plugin-transform-remove-debugger": "6.8.5",
-    "commander": "6.2.1",
+    "commander": "8.0.0",
     "cross-env": "4.0.0",
     "eslint": "5.16.0",
     "eslint-config-react-app": "3.0.8",
