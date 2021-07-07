@@ -1768,10 +1768,10 @@ babel-plugin-transform-minify-booleans@6.8.3:
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-minify-booleans/-/babel-plugin-transform-minify-booleans-6.8.3.tgz#5906ed776d3718250519abf1bace44b0b613ddf9"
   integrity sha512-bPbUhkeN2Nc0KH0/A19GwQGj8w+CvdJzyu8t59VoEDgsNMQ9Bopzi5DrVkrSsVjbYUaZpzq/DYLrH+wD5K2Tig==
 
-babel-plugin-transform-remove-console@6.8.5:
-  version "6.8.5"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-remove-console/-/babel-plugin-transform-remove-console-6.8.5.tgz#fde9d2d3d725530b0fadd8d31078402410386810"
-  integrity sha512-uuCKvtweCyIvvC8fi92EcWRtO2Kt5KMNMRK6BhpDXdeb3sxvGM7453RSmgeu4DlKns3OlvY9Ep5Q9m5a7RQAgg==
+babel-plugin-transform-remove-console@6.9.4:
+  version "6.9.4"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-remove-console/-/babel-plugin-transform-remove-console-6.9.4.tgz#b980360c067384e24b357a588d807d3c83527780"
+  integrity sha1-uYA2DAZzhOJLNXpYjYB9PINSd4A=
 
 babel-plugin-transform-remove-debugger@6.8.5:
   version "6.8.5"
