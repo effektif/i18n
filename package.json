@@ -57,7 +57,7 @@
     "@babel/preset-flow": "7.14.5",
     "@babel/preset-react": "7.14.5",
     "babel-eslint": "9.0.0",
-    "babel-plugin-transform-minify-booleans": "6.8.3",
+    "babel-plugin-transform-minify-booleans": "6.9.4",
     "babel-plugin-transform-remove-console": "6.8.5",
     "babel-plugin-transform-remove-debugger": "6.8.5",
     "commander": "6.2.1",
