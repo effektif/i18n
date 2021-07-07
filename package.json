@@ -9,7 +9,7 @@
     "url": "https://github.com/signavio/i18n.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com"
   },
   "bin": {
     "i18n-extract": "bin/i18n-extract.js",
