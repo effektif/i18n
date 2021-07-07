@@ -59,7 +59,7 @@
     "babel-eslint": "9.0.0",
     "babel-plugin-transform-minify-booleans": "6.8.3",
     "babel-plugin-transform-remove-console": "6.8.5",
-    "babel-plugin-transform-remove-debugger": "6.8.5",
+    "babel-plugin-transform-remove-debugger": "6.9.4",
     "commander": "6.2.1",
     "cross-env": "4.0.0",
     "eslint": "5.16.0",
