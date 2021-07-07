@@ -2958,6 +2958,15 @@ gettext-parser@2.0.0:
     encoding "^0.1.12"
     safe-buffer "^5.1.2"
 
+gettext-parser@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/gettext-parser/-/gettext-parser-2.1.0.tgz#44dad33a15a74776f4383bb33efa8e0eda2346e4"
+  integrity sha512-YGmu8DSm7PBnwItT+aOiqejOogqctHFzn+wBKUzjDFQP00psAtn/W2paWQxqE5eA5Ijrqaf7xuTKqyCHpuxnrg==
+  dependencies:
+    encoding "^0.1.12"
+    readable-stream "^2.0.0"
+    safe-buffer "^5.1.2"
+
 gettext-parser@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/gettext-parser/-/gettext-parser-1.4.0.tgz#f8baf34a292f03d5e42f02df099d301f167a7ace"
@@ -4866,7 +4875,7 @@ read-pkg@^3.0.0:
     normalize-package-data "^2.3.2"
     path-type "^3.0.0"
 
-readable-stream@^2.0.2:
+readable-stream@^2.0.0, readable-stream@^2.0.2:
   version "2.3.7"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.7.tgz#1eca1cf711aef814c04f62252a36a62f6cb23b57"
   integrity sha512-Ebho8K4jIbHAxnuxi7o42OrZgF/ZTNcsZj6nRKyUmkhLFq8CHItp/fy6hQZuZmP/n3yZ9VBUbp4zz/mX8hmYPw==
