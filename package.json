@@ -77,7 +77,7 @@
     "prettier": "1.15.3",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "rimraf": "2.7.1"
+    "rimraf": "3.0.2"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0",
